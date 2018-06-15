@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Dates" section_id="5b92b3c4db32130034cae04a489619b3" sys_domain="global" table="x_77531_job_applic_job_applications" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-15 08:57:41</sys_created_on>
+            <sys_id>639237c4db32130034cae04a4896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dates" display_value="Dates" name="x_77531_job_applic_job_applications" sys_domain="global" view="Default view">5b92b3c4db32130034cae04a489619b3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-15 08:57:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-15 08:57:41</sys_created_on>
+            <sys_id>e39237c4db32130034cae04a4896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dates" display_value="Dates" name="x_77531_job_applic_job_applications" sys_domain="global" view="Default view">5b92b3c4db32130034cae04a489619b3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-15 08:57:41</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-15 08:57:41</sys_created_on>
+            <sys_id>679237c4db32130034cae04a4896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dates" display_value="Dates" name="x_77531_job_applic_job_applications" sys_domain="global" view="Default view">5b92b3c4db32130034cae04a489619b3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-15 08:57:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Dates</caption>
+            <header>false</header>
+            <name>x_77531_job_applic_job_applications</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-15 08:57:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b92b3c4db32130034cae04a489619b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Dates</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Job Application" source="x_77531_job_applic">7fbf6fc0db32130034cae04a48961987</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Job Application">7fbf6fc0db32130034cae04a48961987</sys_scope>
+            <sys_update_name>sys_ui_section_5b92b3c4db32130034cae04a489619b3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-15 08:57:40</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
