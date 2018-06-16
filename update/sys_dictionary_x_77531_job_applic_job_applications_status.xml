@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="company" table="x_77531_job_applic_job_applications">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="status" table="x_77531_job_applic_job_applications">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -12,10 +12,10 @@
 	return '';  // return the calculated value
 
 })(current);]]></calculation>
-        <choice/>
+        <choice>1</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Company</column_label>
+        <column_label>Status</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -28,14 +28,14 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>company</element>
+        <element>status</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="Choice">choice</internal_type>
         <mandatory>false</mandatory>
-        <max_length>100</max_length>
+        <max_length>40</max_length>
         <name>x_77531_job_applic_job_applications</name>
         <next_element/>
         <primary>false</primary>
@@ -53,16 +53,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-06-15 08:54:02</sys_created_on>
-        <sys_id>bbbfb460dbfa130034cae04a4896198d</sys_id>
+        <sys_created_on>2018-06-15 16:50:41</sys_created_on>
+        <sys_id>d0ced1dcdbf2130034cae04a489619c3</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Company</sys_name>
+        <sys_name>Status</sys_name>
         <sys_package display_value="Job Application" source="x_77531_job_applic">7fbf6fc0db32130034cae04a48961987</sys_package>
         <sys_policy/>
         <sys_scope display_value="Job Application">7fbf6fc0db32130034cae04a48961987</sys_scope>
-        <sys_update_name>sys_dictionary_x_77531_job_applic_job_applications_company</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-06-16 09:13:10</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_77531_job_applic_job_applications_status</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-15 16:50:41</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
